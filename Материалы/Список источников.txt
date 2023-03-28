@@ -1,0 +1,18 @@
+Заглавие текста на экране [Электронный ресурс] // Заглавие сайта : сведения, относящиеся к заглавию. URL : http//www. _______(дата обращения: __.___.____)
+Новосибирск [Электронный ресурс] // Википедия : Свободная энциклопедия. URL : http://www.ru.wikipedia.org /wiki/%CD%EE%E2%EE%F1%E8%E1%E8% F0%F1%EA (дата обращения: 11.12.13)
+
+------------------- Домены ---------------------------------
+
+https://github.com/                                 - GitHub : Хостинг IT-проектов 
+https://mongodb.com/                                - MongoDB : Сайт разработчиков СУБД MongoDB
+https://mongodb.github.io/mongo-csharp-driver/      - MongoDB .NET Driver : Документация по драйверу .NET MongoDB 
+https://www.nuget.org/                              - NuGet : Система управления пакетами для .NET
+https://csharpdoc.hotexamples.com/                  - Hot Examples : Агрегатор примеров использования исходного кода
+https://stackoverflow.com/                          - Stack Overflow : Система вопросов и ответов о программировании
+https://metanit.com/                                - METANIT : Сайт о программировании
+https://habr.com/ru                                 - Хабр : Коллективный блог
+https://learn.microsoft.com/                        - Microsoft Learn : онлайн-платформа для обучения по технологиям Microsoft
+
+-----------------------------------------------------------
+
+The Official C# .NET Driver for MongoDB [Электронный ресурс] // GitHub : Хостинг IT-проектов. URL : https://github.com/mongodb/mongo-csharp-driver (дата обращения: 22.02.2023)
